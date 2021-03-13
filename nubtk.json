@@ -19,6 +19,51 @@
 "id":4,
 "name":"Name: SK.Shalauddin Kabir \n\n Subject-Name :Computer Graphics and Multimedia System Lab \n\n Subject-Code:CSE 4108 \n\n Class-Code: nlxa7gi",
 "img":"https://res.cloudinary.com/dyrp1vgpn/image/upload/v1615393473/blue_iclkzm.jpg"
+},
+{
+"id":5,
+"name":"Name: Ferdib-Al-Islam \n\nSubject-Name :Embedded System \n\nSubject-Code:CSE 4201 \n\nClass-Code: 47kpros",
+"img":"https://res.cloudinary.com/dyrp1vgpn/image/upload/v1615393473/blue_iclkzm.jpg"
+},
+{
+"id":6,
+"name":"Name: Ferdib-Al-Islam \n\nSubject-Name :Embedded System Lab \n\n Subject-Code:CSE 4202 \n\n Class-Code: 47kpros",
+"img":"https://res.cloudinary.com/dyrp1vgpn/image/upload/v1615393473/blue_iclkzm.jpg"
+},
+{
+"id":7,
+"name":"Name: Md. Riaz Mahmud \n\n Subject-Name :Theory Of Computation  \n\n Subject-Code:CSE 3205 \n\n Class-Code: vr4pqs6",
+"img":"https://res.cloudinary.com/dyrp1vgpn/image/upload/v1615393473/blue_iclkzm.jpg"
+},
+{
+"id":8,
+"name":"Name: Saumendu RoySaumo \n\nSubject-Name :Theory Of Computation  \n\nSubject-Code:CSE 4105 \n\nClass-Code: zqgx37k",
+"img":"https://res.cloudinary.com/dyrp1vgpn/image/upload/v1615393473/blue_iclkzm.jpg"
+},
+{
+"id":9,
+"name":"Name: Saumendu RoySaumo \n\nSubject-Name :Theory Of Computation Lab  \n\nSubject-Code:CSE 4106 \n\nClass-Code: zqgx37k",
+"img":"https://res.cloudinary.com/dyrp1vgpn/image/upload/v1615393473/blue_iclkzm.jpg"
+},
+{
+"id":10,
+"name":"Name: Md. Mehedi RahmanRana \n\nSubject-Name : Artifical Intelligence and Expert System  \n\nSubject-Code:CSE 4111 \n\nClass-Code: 6zk4ddn",
+"img":"https://res.cloudinary.com/dyrp1vgpn/image/upload/v1615393473/blue_iclkzm.jpg"
+},
+{
+"id":11,
+"name":"Name: Md. Mehedi RahmanRana \n\nSubject-Name : Artifical Intelligence and Expert System Lab \n\nSubject-Code:CSE 4112 \n\nClass-Code: 6zk4ddn",
+"img":"https://res.cloudinary.com/dyrp1vgpn/image/upload/v1615393473/blue_iclkzm.jpg"
+},
+{
+"id":,
+"name":"Name: Md. Riaz Mahmud \n\nSubject-Name :Theory Of Computation  \n\nSubject-Code:CSE 3205 \n\nClass-Code: vr4pqs6",
+"img":"https://res.cloudinary.com/dyrp1vgpn/image/upload/v1615393473/blue_iclkzm.jpg"
+},
+{
+"id":,
+"name":"Name: Md. Riaz Mahmud \n\n Subject-Name :Theory Of Computation  \n\n Subject-Code:CSE 3205 \n\n Class-Code: vr4pqs6",
+"img":"https://res.cloudinary.com/dyrp1vgpn/image/upload/v1615393473/blue_iclkzm.jpg"
 }
 ]
 }
